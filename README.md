@@ -1,2 +1,2 @@
-# Event-management-web
-This website is a demo of how different events can be booked through this website.
+# Responsive-Event-Organization-Website-in-HTML-CSS-JavaScript
+Hey guys in this article we make a Responsive Event Organization Website in HTML CSS and JavaScript
